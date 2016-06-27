@@ -1,3 +1,5 @@
 Fichero de texto a ignorar
 
 Segunda linea
+
+Tercera linea
